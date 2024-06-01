@@ -1,0 +1,124 @@
+/* CSS */
+
+body{
+    background-color: #FCFFA2;
+    color: black;
+    margin: 0;
+ 
+  font-family: "Georgia", Times, serif;
+} 
+
+h1 {
+ text-align: center;
+ color: green;
+ text-shadow: -2px 1px white;
+}
+
+
+h2 {
+ color: rgb(248, 23, 248);
+}
+
+h3 {
+ color: rgb(99, 1, 1);
+}
+
+h4 {
+ color: #848100;
+}
+
+b { 
+ color: purple;
+}
+
+i {
+ color: red;
+}
+
+p {
+ color: black;
+}
+
+figcaption {
+ color: #D58E39;
+ text-align: center;
+}
+
+#nav {
+
+ text-align: center;
+ color: blue;
+ 
+ width: 900px;
+ border: 1px solid green;
+ padding: 1px;
+ margin: 20px;
+ align: center;
+ 
+}
+
+#Copyright {
+
+ text-align: center;
+ color: black;
+ 
+ width: 900px;
+ border: 1px solid rgb(35, 245, 35);
+ padding: 1px;
+ margin: 20px;
+ align: center; 
+ 
+}
+
+.center {
+ display: block;
+ margin-left: auto;
+ margin-right: auto;
+}
+
+img {
+ border: 5px solid #878B00;
+}
+
+#NOVA {
+ color: brown
+}
+
+aside {
+ color: orange;
+ text-align: left; 
+}
+
+#Commissions{
+ 
+   text-align: center;
+ 
+}
+
+#explanationa{
+ 
+ color: rgb(255, 94, 94);
+ text-align: center
+ 
+}
+
+#explanationb{
+ 
+ color: #704511;
+ text-align: center
+ 
+}
+
+#explanationc{
+ 
+ color: #17641E;
+ text-align: center
+ 
+}
+
+#explanation {
+
+ text-align: left;
+ color: rgb(250, 86, 86);
+ 
+}
