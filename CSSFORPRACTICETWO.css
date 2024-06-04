@@ -63,10 +63,11 @@ figcaption {
   margin-left: auto;
   margin-right: auto;
   width: 50%;
+  border: 3px solid green;
 }
 
 img {
-  border: 5px solid #555;
+  border: 10px solid green;
   padding: 3px;
 }
 
