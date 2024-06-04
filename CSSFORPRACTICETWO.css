@@ -65,6 +65,11 @@ figcaption {
   width: 50%;
 }
 
+img {
+  border: 5px solid #555;
+  padding: 3px;
+}
+
 }
 
 #NOVA {
