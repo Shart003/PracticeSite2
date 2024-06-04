@@ -54,11 +54,7 @@ figcaption {
 #Copyright {
 
   text-align: center;
-  color: blue;
-  
-  width: 1000px;
-  border: 1px solid green;
-  align: center;
+  border: 3px solid green;
   
 }
 
@@ -70,8 +66,9 @@ figcaption {
 }
 
 img {
-  border: 5px solid #878B00;
-  align: center;
+border: 5px solid #878B00;
+max-width: 100%;
+height: auto;
 }
 
 #NOVA {
